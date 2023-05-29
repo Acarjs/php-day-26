@@ -5,7 +5,7 @@ $page = 'home';
 $items = [];
 
 if(isset($_POST['items'])) {
-  var_dump($items);
+  // var_dump($items);
    $items = $_POST['items'];
 }
 
