@@ -15,8 +15,6 @@ if(isset($_GET['page'])) {
 
 ?>
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
