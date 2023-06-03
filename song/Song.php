@@ -13,6 +13,8 @@ class Song {
   public static function getTotalNrOfSongs() {
     //$this is an object is similar to static in a class 
     // static === this class
+
+    //the property $total_songs of this class
     return static :: $total_songs;
   }
  }
